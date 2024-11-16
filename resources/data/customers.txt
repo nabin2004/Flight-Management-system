@@ -1,0 +1,28 @@
+1::Nabin Oli::980000::nabin@gmail.com::false::false::
+2::Nabraj Kripa::9800010::n@gmail.com::false::false::
+3::Nabu Khadka::980800::na@gmail.com::false::false::
+4::Rabu Oli::9809990::ba@gmail.com::false::false::
+5::Rina Shah::980002::rinashah@gmail.com::false::false::
+6::Rajan Singh::980003::rajan@gmail.com::false::false::
+7::Sita Thapa::980004::sita.thapa@gmail.com::false::false::
+8::Ram Karki::980005::ramkarki@gmail.com::true::false::
+9::Shyam Acharya::980006::shyam.acharya@gmail.com::false::false::
+10::Gita Lama::980007::gita.lama@gmail.com::false::false::
+11::Bibek Sharma::980008::bibek.sharma@gmail.com::false::false::
+12::Anita Maharjan::980009::anita.maharjan@gmail.com::true::false::
+13::Ramesh Chhetri::980010::ramesh.chhetri@gmail.com::true::false::
+14::Saraswoti Pokhrel::980011::saraswoti.pokhrel@gmail.com::false::false::
+15::Bikash Adhikari::980012::bikash.adhikari@gmail.com::false::false::
+16::Shova Shrestha::980013::shova.shrestha@gmail.com::false::false::
+17::Prakash Maharjan::980014::prakash.maharjan@gmail.com::false::false::
+18::Nisha Tamang::980015::nisha.tamang@gmail.com::false::false::
+19::Dinesh Shrestha::980016::dinesh.shrestha@gmail.com::false::false::
+20::Kamal Pandey::980017::kamal.pandey@gmail.com::false::false::
+21::Sunita Bhandari::980018::sunita.bhandari@gmail.com::false::false::
+22::Roshan Khatri::980019::roshan.khatri@gmail.com::false::false::
+23::Sarita Sharma::980020::sarita.sharma@gmail.com::false::false::
+24::Nabin Olivia::9800000::oliv@gmail.com::false::false::
+25::Nabin Oli::9848185797::nabinoli2004@gmail.com::false::false::
+26::Rameshwor Yadav::9848000000::nab@gmail.com::true::false::
+27::Nabin Kripa Oli::9809090::nabin@gmail.com::false::false::
+28::Nabraj Kripa Oli::980000::naban@gmail.com::false::false::
